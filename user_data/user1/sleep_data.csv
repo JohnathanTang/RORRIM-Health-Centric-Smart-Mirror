@@ -1,0 +1,2 @@
+dateOfSleep,duration,efficiency,endTime,infoCode,isMainSleep,logId,minutesAfterWakeup,minutesAsleep,minutesAwake,minutesToFallAsleep,startTime,timeInBed,type
+2021-02-01,33540000,28,2021-02-01T11:39:30.000,0,True,30749463536,28,472,87,0,2021-02-01T02:20:00.000,559,stages

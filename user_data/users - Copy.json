@@ -1,0 +1,11 @@
+{"1": {"username" : "Peter Anteater",
+    "location" : "Irvine,CA,US",
+	"fitbit" : ["123", "4355"],
+	"oura" : ["456", "5351"]
+	},
+
+"2": {"username" : "Sammy the Slug",
+	"location" : "Santa Cruz,CA,US",
+	"emotiv" : ["789", "4382"]
+	}
+}
