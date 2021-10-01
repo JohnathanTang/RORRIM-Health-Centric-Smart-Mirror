@@ -7,7 +7,7 @@ RORRIM is a smart mirror that hopes to encourage the incorporation of smart tech
 
 
 
-# Contributors 
+## Contributors 
 - Salma Elmalaki
 - Isabelle P Wang
 - Carissa A Sevaston
