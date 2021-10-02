@@ -32,3 +32,10 @@ RORRIM is a smart mirror that hopes to encourage the incorporation of smart tech
 - Kevin S Zhu
 - Johnathan Tang
 
+## Awards
+
+🏆 2021 Winter Design Review: Dean's Choice Award
+
+
+## References
+https://escholarship.org/uc/item/7ps471h7
