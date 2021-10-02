@@ -20,8 +20,8 @@ RORRIM is a smart mirror that hopes to encourage the incorporation of smart tech
 - MLX90614ESF Temperature Sensor 
 - MAX30102 SpO2 Sensor 
 
-## Hardware Design 
-![Alt text](https://github.com/JohnathanTang/RORRIM-Health-Centric-Smart-Mirror/blob/main/RORRIM%20Pictures/sdp_hw_diagram_v3.png?raw=true "Title")
+## Software Design 
+![Alt text](https://github.com/JohnathanTang/RORRIM-Health-Centric-Smart-Mirror/blob/main/RORRIM%20Pictures/RORRIM_SW_diagram.png?raw=true "Title")
 
 
 ## Contributors 
